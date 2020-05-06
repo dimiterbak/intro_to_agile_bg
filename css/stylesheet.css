@@ -85,8 +85,8 @@ th, td {
 td p { margin: 0rem 0rem 0rem 0rem; text-indent: 0rem; }
 
 /* Images */
-img { display: block; margin: 1rem auto 1rem auto; width: 80%}
-img + figcaption { margin-top: -0.75rem; width: 80% }
+img { display: block; margin: 1rem auto 1rem auto; width: 50%}
+img + figcaption { margin-top: -0.75rem; width: 50% }
 
 /* Numbered lists */
 /* 1. a. i. ... */
