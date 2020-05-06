@@ -21,7 +21,7 @@ code { font-weight: normal; font-style: normal; text-decoration: none; }
 .footnotes { margin: 0rem 0rem 0rem 0rem; text-indent: 0rem; }
 .heading-2 { margin: 0.67rem 0rem 0.67rem 0rem; text-indent: 0rem; text-align: center; line-height: 1em; font-size: 1.08rem; font-weight: normal; }
 .page-title { margin: 0rem 0rem 1rem 0rem; text-indent: 0rem; text-align: center; line-height: 1em; font-size: 1.17rem; font-weight: normal; }
-.title { margin: 0rem 0rem 0.83rem 0rem; text-indent: 0rem; text-align: center; line-height: 1em; font-size: 1.33rem; font-weight: normal; }
+.sub-heading { margin: 0.67rem 0rem 0.67rem 0rem; text-indent: 0rem; text-align: center; line-height: 1em; font-size: 1.08rem; font-weight: normal; }
 /* Direct formatting styles */
 .ps1 { line-height: 1.1em; }
 .ps2 { margin-left: 0rem; text-indent: 0rem; text-align: center; }
@@ -81,8 +81,8 @@ th, td {
 td p { margin: 0rem 0rem 0rem 0rem; text-indent: 0rem; }
 
 /* Images */
-img { display: block; margin: 1rem auto 1rem auto; width: 50%}
-img + figcaption { margin-top: -0.75rem; width: 50% }
+img { display: block; margin: 1rem auto 1rem auto; }
+img + figcaption { margin-top: -0.75rem; }
 
 /* Numbered lists */
 /* 1. a. i. ... */
