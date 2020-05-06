@@ -19,17 +19,13 @@ pre > code { white-space: pre-wrap; -webkit-hyphens: none; hyphens: none; }
 code { font-weight: normal; font-style: normal; text-decoration: none; }
 .emphasis { font-weight: normal; font-style: italic; text-decoration: none; }
 .footnotes { margin: 0rem 0rem 0rem 0rem; text-indent: 0rem; }
-.heading-1 { margin: 0rem 0rem 1.33rem 0rem; text-indent: 0rem; text-align: center; line-height: 1em; font-size: 1.33rem; font-weight: normal; }
 .heading-2 { margin: 0.67rem 0rem 0.67rem 0rem; text-indent: 0rem; text-align: center; line-height: 1em; font-size: 1.08rem; font-weight: normal; }
 .page-title { margin: 0rem 0rem 1rem 0rem; text-indent: 0rem; text-align: center; line-height: 1em; font-size: 1.17rem; font-weight: normal; }
-.sub-heading { margin: 0.67rem 0rem 0.67rem 0rem; text-indent: 0rem; text-align: center; line-height: 1em; font-size: 1.08rem; font-weight: normal; }
 .title { margin: 0rem 0rem 0.83rem 0rem; text-indent: 0rem; text-align: center; line-height: 1em; font-size: 1.33rem; font-weight: normal; }
-.verse { margin: 0rem 0rem 0rem 0rem; text-indent: 0rem; text-align: center; line-height: 1.1em; }
 /* Direct formatting styles */
-.ps1 { margin-left: 0rem; text-indent: 0rem; text-align: center; }
-.ps2 { line-height: 1.1em; }
+.ps1 { line-height: 1.1em; }
+.ps2 { margin-left: 0rem; text-indent: 0rem; text-align: center; }
 .ps3 { margin-left: 0rem; text-indent: 0rem; }
-.ps4 { text-align: justify; }
 
 /* Separators */
 .separator { }
@@ -139,10 +135,6 @@ nav#toc ol li:before { content: none; }
 
 /* Small-caps */
 .small-caps { font-variant: small-caps; }
-
-/* Superscript and Subscript */
-sup { font-size: 0.66em; }
-sub { font-size: 0.66em; }
 
 
 
