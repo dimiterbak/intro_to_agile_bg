@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="PrimaryID">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>Въведение в Agile</dc:title>
+        <dc:identifier id="PrimaryID">urn:uuid:24B64566-4F30-4A3F-8DFD-7AF116C47887</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta property="dcterms:modified">2020-05-06T10:35:33Z</meta>
+        <dc:creator id="author">Димитър Бакърджиев</dc:creator>
+        <meta refines="#author" property="role">aut</meta>
+        <meta name="cover" content="cover-image"/>
+    </metadata>
+    <manifest>
+        <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" fallback="contents"/>
+        <item id="contents" properties="nav" href="contents.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body" href="body.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body1" href="body1.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body2" href="body2.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body3" href="body3.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body4" href="body4.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body5" href="body5.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body6" href="body6.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body7" href="body7.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body8" href="body8.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body9" href="body9.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body10" href="body10.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body11" href="body11.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body12" href="body12.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body13" href="body13.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body14" href="body14.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body15" href="body15.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body16" href="body16.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body17" href="body17.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body18" href="body18.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body19" href="body19.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body20" href="body20.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body21" href="body21.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body22" href="body22.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body23" href="body23.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body24" href="body24.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body25" href="body25.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body26" href="body26.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body27" href="body27.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body28" href="body28.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body29" href="body29.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body30" href="body30.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body31" href="body31.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body32" href="body32.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body33" href="body33.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body34" href="body34.xhtml" media-type="application/xhtml+xml"/>
+        <item id="body35" href="body35.xhtml" media-type="application/xhtml+xml"/>
+        <item id="style" href="css/stylesheet.css" media-type="text/css"/>
+        <item id="cover-image" href="images/cover.png" media-type="image/png" properties="cover-image"/>
+        <item id="img-000" href="images/OODA_loop_F1.png" media-type="image/png"/>
+        <item id="img-001" href="images/Linearthinking_1_F2.png" media-type="image/png"/>
+        <item id="img-002" href="images/Linearthinking_2_F3.png" media-type="image/png"/>
+        <item id="img-003" href="images/Systemsthinking_1_F4.png" media-type="image/png"/>
+        <item id="img-004" href="images/Systemsthinking_2_F5.png" media-type="image/png"/>
+        <item id="img-005" href="images/8_queens_board.png" media-type="image/png"/>
+        <item id="img-006" href="images/SystemTypesTopology_F7.png" media-type="image/png"/>
+        <item id="img-007" href="images/PastedGraphic13.png" media-type="image/png"/>
+        <item id="img-008" href="images/lorenz.png" media-type="image/png"/>
+        <item id="img-009" href="images/Hawthorne.png" media-type="image/png"/>
+        <item id="img-010" href="images/PastedGraphic15.png" media-type="image/png"/>
+        <item id="img-011" href="images/PastedGraphic2.png" media-type="image/png"/>
+        <item id="img-012" href="images/PastedGraphic3.png" media-type="image/png"/>
+        <item id="img-013" href="images/PastedGraphic.png" media-type="image/png"/>
+        <item id="img-014" href="images/PastedGraphic4.png" media-type="image/png"/>
+        <item id="img-015" href="images/PastedGraphic17.png" media-type="image/png"/>
+        <item id="img-016" href="images/PastedGraphic18.png" media-type="image/png"/>
+        <item id="img-017" href="images/Screen_Shot_2012-11-11_at_055650.png" media-type="image/png"/>
+        <item id="img-018" href="images/PastedGraphic14.png" media-type="image/png"/>
+        <item id="img-019" href="images/jobshopschedule.png" media-type="image/png"/>
+        <item id="img-020" href="images/PastedGraphic1.png" media-type="image/png"/>
+        <item id="img-021" href="images/PastedGraphic5.png" media-type="image/png"/>
+        <item id="img-022" href="images/Double-looplearning.jpg" media-type="image/jpeg"/>
+        <item id="img-023" href="images/PastedGraphic6.png" media-type="image/png"/>
+        <item id="img-024" href="images/sAdZ63y.jpg" media-type="image/jpeg"/>
+        <item id="img-025" href="images/PastedGraphic7.png" media-type="image/png"/>
+        <item id="img-026" href="images/PastedGraphic8.png" media-type="image/png"/>
+        <item id="img-027" href="images/QT_1.png" media-type="image/png"/>
+        <item id="img-028" href="images/QT_2.png" media-type="image/png"/>
+        <item id="img-029" href="images/QT_3.png" media-type="image/png"/>
+        <item id="img-030" href="images/QT_4.png" media-type="image/png"/>
+        <item id="img-031" href="images/QT_5.png" media-type="image/png"/>
+        <item id="img-032" href="images/QT_6.png" media-type="image/png"/>
+        <item id="img-033" href="images/QT_7.png" media-type="image/png"/>
+        <item id="img-034" href="images/QT_8.png" media-type="image/png"/>
+        <item id="img-035" href="images/QT_9.png" media-type="image/png"/>
+        <item id="img-036" href="images/QT_10.png" media-type="image/png"/>
+        <item id="img-037" href="images/QT_11.png" media-type="image/png"/>
+        <item id="img-038" href="images/QT_12.png" media-type="image/png"/>
+        <item id="img-039" href="images/QT_13.png" media-type="image/png"/>
+        <item id="img-040" href="images/QT_14.png" media-type="image/png"/>
+        <item id="img-041" href="images/QT_26.png" media-type="image/png"/>
+        <item id="img-042" href="images/QT_27.png" media-type="image/png"/>
+        <item id="img-043" href="images/QT_28.png" media-type="image/png"/>
+        <item id="img-044" href="images/QT_29.png" media-type="image/png"/>
+        <item id="img-045" href="images/QT_30.png" media-type="image/png"/>
+        <item id="img-046" href="images/QT_16.png" media-type="image/png"/>
+        <item id="img-047" href="images/PastedGraphic28.png" media-type="image/png"/>
+        <item id="img-048" href="images/QT.png" media-type="image/png"/>
+        <item id="img-049" href="images/QT_15.png" media-type="image/png"/>
+        <item id="img-050" href="images/QT_17.png" media-type="image/png"/>
+        <item id="img-051" href="images/QT_18.png" media-type="image/png"/>
+        <item id="img-052" href="images/QT_19.png" media-type="image/png"/>
+        <item id="img-053" href="images/QT_20.png" media-type="image/png"/>
+        <item id="img-054" href="images/QT_21.png" media-type="image/png"/>
+        <item id="img-055" href="images/QT_22.png" media-type="image/png"/>
+        <item id="img-056" href="images/QT_23.png" media-type="image/png"/>
+        <item id="img-057" href="images/QT_24.png" media-type="image/png"/>
+        <item id="img-058" href="images/Traditionalchange.png" media-type="image/png"/>
+        <item id="img-059" href="images/J_curve.png" media-type="image/png"/>
+        <item id="img-060" href="images/Decresing_fitness.png" media-type="image/png"/>
+        <item id="img-061" href="images/Evolutionary_change.png" media-type="image/png"/>
+        <item id="img-062" href="images/Incresing_fitness.png" media-type="image/png"/>
+        <item id="img-063" href="images/PastedGraphic9.png" media-type="image/png"/>
+        <item id="img-064" href="images/PastedGraphic10.png" media-type="image/png"/>
+        <item id="img-065" href="images/PastedGraphic11.png" media-type="image/png"/>
+        <item id="img-066" href="images/PastedGraphic12.png" media-type="image/png"/>
+        <item id="img-067" href="images/PastedGraphic16.png" media-type="image/png"/>
+        <item id="img-068" href="images/PastedGraphic19.png" media-type="image/png"/>
+        <item id="img-069" href="images/PastedGraphic20.png" media-type="image/png"/>
+        <item id="img-070" href="images/LeanStartup.png" media-type="image/png"/>
+        <item id="img-071" href="images/Validation_Board.png" media-type="image/png"/>
+        <item id="img-072" href="images/PastedGraphic21.png" media-type="image/png"/>
+        <item id="img-073" href="images/PastedGraphic22.png" media-type="image/png"/>
+        <item id="img-074" href="images/PastedGraphic23.png" media-type="image/png"/>
+        <item id="img-075" href="images/PastedGraphic24.png" media-type="image/png"/>
+        <item id="img-076" href="images/PastedGraphic25.png" media-type="image/png"/>
+        <item id="img-077" href="images/PastedGraphic26.png" media-type="image/png"/>
+        <item id="img-078" href="images/PastedGraphic27.png" media-type="image/png"/>
+        <item id="img-079" href="images/PastedGraphic29.png" media-type="image/png"/>
+        <item id="img-080" href="images/PastedGraphic30.png" media-type="image/png"/>
+        <item id="img-081" href="images/PastedGraphic31.png" media-type="image/png"/>
+        <item id="img-082" href="images/PastedGraphic32.png" media-type="image/png"/>
+        <item id="img-083" href="images/PastedGraphic33.png" media-type="image/png"/>
+        <item id="img-084" href="images/PastedGraphic34.png" media-type="image/png"/>
+        <item id="img-085" href="images/PastedGraphic35.png" media-type="image/png"/>
+        <item id="img-086" href="images/PastedGraphic36.png" media-type="image/png"/>
+        <item id="img-087" href="images/PastedGraphic37.png" media-type="image/png"/>
+        <item id="img-088" href="images/PastedGraphic38.png" media-type="image/png"/>
+        <item id="img-089" href="images/PastedGraphic39.png" media-type="image/png"/>
+        <item id="img-090" href="images/PastedGraphic40.png" media-type="image/png"/>
+        <item id="img-091" href="images/PastedGraphic41.png" media-type="image/png"/>
+        <item id="img-092" href="images/PastedGraphic42.png" media-type="image/png"/>
+        <item id="img-093" href="images/PastedGraphic43.png" media-type="image/png"/>
+        <item id="img-094" href="images/PastedGraphic44.png" media-type="image/png"/>
+        <item id="img-095" href="images/PastedGraphic45.png" media-type="image/png"/>
+        <item id="img-096" href="images/PastedGraphic46.png" media-type="image/png"/>
+        <item id="img-097" href="images/PastedGraphic47.png" media-type="image/png"/>
+        <item id="img-098" href="images/PastedGraphic48.png" media-type="image/png"/>
+        <item id="img-099" href="images/PastedGraphic49.png" media-type="image/png"/>
+        <item id="img-100" href="images/PastedGraphic50.png" media-type="image/png"/>
+        <item id="img-101" href="images/PastedGraphic51.png" media-type="image/png"/>
+        <item id="img-102" href="images/PastedGraphic52.png" media-type="image/png"/>
+        <item id="img-103" href="images/PastedGraphic53.png" media-type="image/png"/>
+        <item id="img-104" href="images/PastedGraphic54.png" media-type="image/png"/>
+        <item id="img-105" href="images/PastedGraphic55.png" media-type="image/png"/>
+        <item id="img-106" href="images/PastedGraphic56.png" media-type="image/png"/>
+        <item id="img-107" href="images/PastedGraphic57.png" media-type="image/png"/>
+        <item id="img-108" href="images/PastedGraphic58.png" media-type="image/png"/>
+        <item id="img-109" href="images/PastedGraphic59.png" media-type="image/png"/>
+        <item id="img-110" href="images/PastedGraphic60.png" media-type="image/png"/>
+        <item id="img-111" href="images/PastedGraphic61.png" media-type="image/png"/>
+        <item id="img-112" href="images/PastedGraphic62.png" media-type="image/png"/>
+        <item id="img-113" href="images/PastedGraphic63.png" media-type="image/png"/>
+        <item id="img-114" href="images/PastedGraphic64.png" media-type="image/png"/>
+        <item id="img-115" href="images/PastedGraphic65.png" media-type="image/png"/>
+        <item id="img-116" href="images/PastedGraphic66.png" media-type="image/png"/>
+        <item id="img-117" href="images/PastedGraphic67.png" media-type="image/png"/>
+        <item id="img-118" href="images/PastedGraphic68.png" media-type="image/png"/>
+        <item id="img-119" href="images/PastedGraphic69.png" media-type="image/png"/>
+        <item id="img-120" href="images/PastedGraphic70.png" media-type="image/png"/>
+        <item id="img-121" href="images/PastedGraphic71.png" media-type="image/png"/>
+        <item id="img-122" href="images/CoverImage-bg.png" media-type="image/png"/>
+        <item id="img-123" href="images/PastedGraphic72.png" media-type="image/png"/>
+        <item id="img-124" href="images/PastedGraphic73.png" media-type="image/png"/>
+        <item id="img-125" href="images/PastedGraphic74.png" media-type="image/png"/>
+        <item id="img-126" href="images/PastedGraphic75.png" media-type="image/png"/>
+        <item id="img-127" href="images/PastedGraphic76.png" media-type="image/png"/>
+        <item id="img-128" href="images/PastedGraphic77.png" media-type="image/png"/>
+        <item id="img-129" href="images/PastedGraphic78.png" media-type="image/png"/>
+        <item id="img-130" href="images/PastedGraphic79.png" media-type="image/png"/>
+        <item id="img-131" href="images/PastedGraphic80.png" media-type="image/png"/>
+        <item id="img-132" href="images/PastedGraphic81.png" media-type="image/png"/>
+        <item id="img-133" href="images/PastedGraphic82.png" media-type="image/png"/>
+        <item id="img-134" href="images/PastedGraphic83.png" media-type="image/png"/>
+        <item id="img-135" href="images/PastedGraphic84.png" media-type="image/png"/>
+        <item id="img-136" href="images/PastedGraphic85.png" media-type="image/png"/>
+        <item id="img-137" href="images/PastedGraphic86.png" media-type="image/png"/>
+        <item id="img-138" href="images/PastedGraphic87.png" media-type="image/png"/>
+        <item id="img-139" href="images/PastedGraphic88.png" media-type="image/png"/>
+        <item id="img-140" href="images/PastedGraphic89.png" media-type="image/png"/>
+        <item id="img-141" href="images/PastedGraphic90.png" media-type="image/png"/>
+        <item id="img-142" href="images/PastedGraphic91.png" media-type="image/png"/>
+        <item id="img-143" href="images/PastedGraphic92.png" media-type="image/png"/>
+        <item id="img-144" href="images/PastedGraphic93.png" media-type="image/png"/>
+        <item id="img-145" href="images/PastedGraphic94.png" media-type="image/png"/>
+        <item id="img-146" href="images/PastedGraphic95.png" media-type="image/png"/>
+        <item id="img-147" href="images/PastedGraphic96.png" media-type="image/png"/>
+        <item id="img-148" href="images/PastedGraphic97.png" media-type="image/png"/>
+        <item id="img-149" href="images/PastedGraphic98.png" media-type="image/png"/>
+        <item id="img-150" href="images/PastedGraphic99.png" media-type="image/png"/>
+        <item id="img-151" href="images/Contextualization_Cap_1.png" media-type="image/png"/>
+        <item id="img-152" href="images/Contextualization_Cap_2.png" media-type="image/png"/>
+        <item id="img-153" href="images/Contextualization_Cap_3.png" media-type="image/png"/>
+        <item id="img-154" href="images/Contextualization_Client_1.png" media-type="image/png"/>
+        <item id="img-155" href="images/Contextualization_Client_2.png" media-type="image/png"/>
+        <item id="img-156" href="images/Contextualization_Client_3.png" media-type="image/png"/>
+        <item id="img-157" href="images/Contextualization_Final.png" media-type="image/png"/>
+        <item id="img-158" href="images/Complexity_Profile.png" media-type="image/png"/>
+        <item id="img-159" href="images/Complexity_Profile_movements.png" media-type="image/png"/>
+        <item id="img-160" href="images/Options_Funel.png" media-type="image/png"/>
+        <item id="img-161" href="images/End-to-end_board.png" media-type="image/png"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="contents" linear="yes"/>
+        <itemref idref="body" linear="yes"/>
+        <itemref idref="body1" linear="yes"/>
+        <itemref idref="body2" linear="yes"/>
+        <itemref idref="body3" linear="yes"/>
+        <itemref idref="body4" linear="yes"/>
+        <itemref idref="body5" linear="yes"/>
+        <itemref idref="body6" linear="yes"/>
+        <itemref idref="body7" linear="yes"/>
+        <itemref idref="body8" linear="yes"/>
+        <itemref idref="body9" linear="yes"/>
+        <itemref idref="body10" linear="yes"/>
+        <itemref idref="body11" linear="yes"/>
+        <itemref idref="body12" linear="yes"/>
+        <itemref idref="body13" linear="yes"/>
+        <itemref idref="body14" linear="yes"/>
+        <itemref idref="body15" linear="yes"/>
+        <itemref idref="body16" linear="yes"/>
+        <itemref idref="body17" linear="yes"/>
+        <itemref idref="body18" linear="yes"/>
+        <itemref idref="body19" linear="yes"/>
+        <itemref idref="body20" linear="yes"/>
+        <itemref idref="body21" linear="yes"/>
+        <itemref idref="body22" linear="yes"/>
+        <itemref idref="body23" linear="yes"/>
+        <itemref idref="body24" linear="yes"/>
+        <itemref idref="body25" linear="yes"/>
+        <itemref idref="body26" linear="yes"/>
+        <itemref idref="body27" linear="yes"/>
+        <itemref idref="body28" linear="yes"/>
+        <itemref idref="body29" linear="yes"/>
+        <itemref idref="body30" linear="yes"/>
+        <itemref idref="body31" linear="yes"/>
+        <itemref idref="body32" linear="yes"/>
+        <itemref idref="body33" linear="yes"/>
+        <itemref idref="body34" linear="yes"/>
+        <itemref idref="body35" linear="yes"/>
+    </spine>
+    <guide>
+        <reference type="toc" title="Contents" href="contents.xhtml"/>
+    </guide>
+</package>
